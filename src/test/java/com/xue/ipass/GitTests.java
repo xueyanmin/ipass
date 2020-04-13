@@ -20,6 +20,7 @@ public class GitTests {
        int b;
        for (int i = 0; i <10; i++) {
             System.out.println(i);
+            System.out.println("-----这是GitHap添加一行打印------");
 
         }
     }
