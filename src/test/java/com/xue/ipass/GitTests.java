@@ -17,7 +17,11 @@ public class GitTests {
     @Test
     public void testGit(){
        int a;
-        int b;
+       int b;
+       for (int i = 0; i <10; i++) {
+            System.out.println(i);
+
+        }
     }
 
 }
