@@ -1,0 +1,25 @@
+{
+  "records": "8",
+  "total": "2",
+  "page": "1",
+  "rows": [
+    {
+      "id": "11",
+      "cateName": "bootstrap",
+      "levels": "1",
+      "parentId": null
+    },
+    {
+      "id": "12",
+      "cateName": "Go",
+      "levels": "1",
+      "parentId": "1"
+    },
+    {
+      "id": "13",
+      "cateName": "PHP",
+      "levels": "1",
+      "parentId": "1"
+    }
+  ]
+}

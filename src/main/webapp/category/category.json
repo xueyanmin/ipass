@@ -1,0 +1,25 @@
+{
+  "records": "8",
+  "total": "2",
+  "page": "1",
+  "rows": [
+    {
+      "id": "1",
+      "cateName": "程序",
+      "levels": "1",
+      "parentId": null
+    },
+    {
+      "id": "2",
+      "cateName": "Servlet",
+      "levels": "1",
+      "parentId": null
+    },
+    {
+      "id": "3",
+      "cateName": "javascript",
+      "levels": "1",
+      "parentId": null
+    }
+  ]
+}

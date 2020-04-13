@@ -1,0 +1,27 @@
+[
+  {
+    "title": "小男孩",
+    "citys": [
+      {"name": "北京","value": "301"},
+      {"name": "天津","value": "202"},
+      {"name": "上海","value": "302"},
+      {"name": "重庆","value": "304"},
+      {"name": "河北","value": "503"},
+      {"name": "安徽","value":"603"},
+      {"name": "香港","value": "503"},
+      {"name": "澳门","value": "307"}
+    ]
+  },{
+    "title": "小姑娘",
+    "citys": [
+      {"name": "北京","value": "310"},
+      {"name": "天津","value": "220"},
+      {"name": "湖北","value": "320"},
+      {"name": "河南","value": "340"},
+      {"name": "山东","value": "530"},
+      {"name": "山西","value":"630"},
+      {"name": "黑龙江","value": "530"},
+      {"name": "吉林","value": "370"}
+  ]
+  }
+]

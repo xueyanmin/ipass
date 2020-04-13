@@ -1,0 +1,37 @@
+server:
+  port: 9999
+  servlet:
+    context-path: /ipass
+
+    jsp:
+      init-parameters:
+        development: true
+
+spring:
+  mvc:
+    view:
+      suffix: .jsp
+      prefix: /
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/186yingx
+    username: root
+    password: root
+  servlet:
+      multipart:
+        max-file-size: 50MB   #单个文件大小
+        max-request-size: 100MB   #一次请求最多携带100MB
+  #redis:
+    #host: 192.168.19.145 #IP地址
+    #port: 7000  #端口
+    #database: 3 #操作的库
+
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.19.146:9300
+
+
+mybatis:
+  type-aliases-package: com.xue.ipass.entity
+  mapper-locations: classpath:com/xue/ipass/mapper/*.xml

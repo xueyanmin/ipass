@@ -1,0 +1,40 @@
+{
+  "total": "2",
+  "records": "9",
+  "page": "1",
+  "rows": [
+    {
+      "id": "1",
+      "username": "小王八",
+      "phone": "1233434343",
+      "headImg": "pic1.jpg",
+      "sign": "这是一只王八",
+      "wechat": "121212121",
+      "status": "0",
+      "createDate": "2011-11-11"
+
+    },
+    {
+      "id": "2",
+      "username": "小美女",
+      "phone": "1233434343",
+      "headImg": "pic2.jpg",
+      "sign": "这是一条小美女",
+      "wechat": "121212121",
+      "status": "1",
+      "createDate": "2011-11-11"
+
+    },
+    {
+      "id": "2",
+      "username": "小贱人",
+      "phone": "1233434343",
+      "headImg": "pic3.jpg",
+      "sign": "这是一答小贱人",
+      "wechat": "121212121",
+      "status": "1",
+      "createDate": "2011-11-11"
+
+    }
+  ]
+}
