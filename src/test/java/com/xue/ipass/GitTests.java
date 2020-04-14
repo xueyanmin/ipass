@@ -23,6 +23,7 @@ public class GitTests {
             System.out.println("-----这是GitHap添加一行打印------");
             System.out.println("---总是向你索取却不曾说谢谢你---");
             System.out.println("---知道长大以后才懂得你不容易---");
+            System.out.println("---每次离开总是装作轻松的样子---");
 
         }
     }
